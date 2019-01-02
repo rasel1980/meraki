@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="16px" viewBox="0 0 39 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="website" transform="translate(-603.000000, -625.000000)" stroke="#379FFF" stroke-width="2">
+            <g id="Group-4" transform="translate(248.000000, 245.000000)">
+                <g id="form" transform="translate(63.000000, 346.000000)">
+                    <g id="arrow" transform="translate(293.000000, 35.000000)">
+                        <path d="M0.5,7 L35.5570946,7" id="Line"></path>
+                        <path d="M29.4811065,0.48110655 L36.1066017,7.10660172" id="Line"></path>
+                        <path d="M29.4811065,6.48110655 L36.1066017,13.1066017" id="Line" transform="translate(33.000000, 10.000000) scale(1, -1) translate(-33.000000, -10.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
